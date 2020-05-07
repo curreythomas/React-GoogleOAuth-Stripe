@@ -2,7 +2,7 @@
 
 ### Usage: An easy to use server with google auth, ready to be wired up to any development app.
 
-![Image of Node, Express, Mongo logos](assets/nodejs-520.jpg =250x250)![Image of Passport logo](assets/passportJS.png =250x250)![Image of mongoose logo](assets/mongoose.png =250x250)
+<img src="https://github.com/curreythomas/ExpressServer-Google-OAuth/blob/master/assets/nodejs-520.jpg?raw=true" width="350" height="250"><img src="https://github.com/curreythomas/ExpressServer-Google-OAuth/blob/master/assets/passportJS.png?raw=true" width="200" height="200"><img src="https://github.com/curreythomas/ExpressServer-Google-OAuth/blob/master/assets/mongoose.png?raw=true" width="300" height="250">
 
 #### How to get setup:
 
