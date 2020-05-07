@@ -2,7 +2,7 @@
 
 ### Usage: An easy to use server with google auth, ready to be wired up to any development app.
 
-![Image of Node, Express, Mongo logos](assets/nodejs-520.jpg)![Image of Passport logo](assets/passportJS.png)![Image of mongoose logo](assets/mongoose.png)
+![Image of Node, Express, Mongo logos](assets/nodejs-520.jpg =250x250)![Image of Passport logo](assets/passportJS.png =250x250)![Image of mongoose logo](assets/mongoose.png =250x250)
 
 #### How to get setup:
 
